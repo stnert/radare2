@@ -30,6 +30,6 @@
     "url": "https://github.com/radareorg/radare2/issues"
   },
   "dependencies": {
-    "wasm-pack": "^0.10.1"
+    "wasm-pack": "^0.11.0"
   }
 }
