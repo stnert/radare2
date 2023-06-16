@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 RUN apt update && apt install -y git curl make patch build-essential
 
 RUN git clone https://github.com/radareorg/radare2 \
